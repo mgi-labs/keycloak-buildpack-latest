@@ -27,7 +27,7 @@
     },
     "KEYCLOAK_VERSION": {
       "description": "keycloak version",
-      "value": "latest",
+      "value": "17.0.0",
       "required": false
     },
     "KC_PROXY": {
