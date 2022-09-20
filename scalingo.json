@@ -67,7 +67,7 @@
     },
     "KC_DB_URL": {
       "description": "database url: jdbc:postgresql://localhost:5432/keycloak",
-      "value": "$KC_DB_URL",
+      "value": "$DATABASE_URL",
       "required": true
     },
     "KC_DB_USERNAME": {
